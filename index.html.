@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Primeiro Site</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Meu Primeiro Site</h1>
+    <p>Estou aprendendo a usar o GitHub Pages.</p>
+    <h2>Sobre o projeto</h2>
+    <p>Esta página foi criada para uma atividade escolar.</p>
+</body>
+</html>
